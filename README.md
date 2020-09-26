@@ -2,8 +2,6 @@
 
 Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
-
 ---
 
 ## Flixster Part 1
@@ -24,4 +22,4 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 <img src="https://media.giphy.com/media/uplrl6fqG8LjTZzZKh/giphy.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+One challenge I encounted while building the app was modifying the synopsis label so that multiple lines were diaplayed for each movie instead of only one line. I tried expanding the label's size, but after doing some research I realized I had to switch the "Lines" in the Attributes inspector to 0. This fixed the issue I was having and allowed for the synposis to be displayed in multiple lines. After this assignment, I feel more comfortable with creating custom cells and creating a network request to get data returned from the API. 
