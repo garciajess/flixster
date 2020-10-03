@@ -17,7 +17,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 ### App Walkthrough GIF
 
 <img src="https://media.giphy.com/media/qWbETMX0Ph2GNMxeL0/giphy.gif" width=250><br>
-!(Image)[https://media.giphy.com/media/qWbETMX0Ph2GNMxeL0/giphy.gif]
+![Gif](https://media.giphy.com/media/qWbETMX0Ph2GNMxeL0/giphy.gif)
 
 ### Notes
 This update includes similar movies to the recently released movies in the form of a Collection View. When working with the tab bar controller for multiple table views, the story board entry point was in the Now Playing Scence instead of the Tab Bar Controller Scence. This caused the program to maintain a black screen after the launchscreen. After moving the entry point, the app was able to run successfully and display all of the data properly.
